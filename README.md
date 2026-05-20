@@ -35,12 +35,14 @@ Helps in identifying trends, performance gaps, and business insights
 The solution enables faster, smarter, and data-driven decision-making using visual analytics.
 
 ⚙️ Tech Stack
+
 Power BI Desktop — Dashboard development & visualization
 Power Query — Data cleaning & transformation
 DAX (Data Analysis Expressions) — KPI calculations & measures
 Excel / SQL — Data source handling & preprocessing
 
 🚀 Key Features
+
 Interactive financial performance dashboard
 KPI tracking and business metrics analysis
 Revenue & profit trend visualization
@@ -50,10 +52,12 @@ Advanced filtering and reporting capabilities
 Dynamic visual analytics for decision-making
 
 📈 Key Insights
+
 Identified major financial growth trends and performance patterns
 Analyzed revenue, profit, and operational efficiency metrics
 Built interactive reports for faster business analysis
 Improved data readability through visual storytelling techniques
 
 🎯 Project Objective
+
 The primary objective of this project was to transform raw financial data into actionable insights and create an interactive analytics solution that supports efficient business decision-making.
